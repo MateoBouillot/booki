@@ -1,0 +1,12 @@
+$color-1: black;
+
+
+
+
+header {
+    background-color:$color-1 ;
+
+    &:hover {
+        transform: scale(1.2);
+    }
+}
